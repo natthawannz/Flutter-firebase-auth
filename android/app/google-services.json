@@ -1,26 +1,36 @@
 {
   "project_info": {
-    "project_number": "89920451985",
-    "project_id": "flutter-auth-ad4f4",
-    "storage_bucket": "flutter-auth-ad4f4.firebasestorage.app"
+    "project_number": "1020819824928",
+    "project_id": "natthawanpp",
+    "storage_bucket": "natthawanpp.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:89920451985:android:d30ee7bbc863900a759630",
+        "mobilesdk_app_id": "1:1020819824928:android:f3128e58a8d8ea1c477745",
         "android_client_info": {
           "package_name": "com.example.flutter_firebase_auth"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "1020819824928-sjh9thgacbpqh6iermq5qkl17f7cidra.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
-          "current_key": "AIzaSyBiIlGeh4-BGYswCxT2800zgcrI_f93vOs"
+          "current_key": "AIzaSyC_VbcuYpqdaPJH7cD68Dg6DckZ48jWgmM"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020819824928-sjh9thgacbpqh6iermq5qkl17f7cidra.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
